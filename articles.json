@@ -442,10 +442,10 @@
     "path": "produtos-da-china/001-como-saber-se-um-produto-da-china-parece-bom-na-foto-mas-vai-decepcionar-no-brasil.html",
     "url": "https://compraschinashop.com/produtos-da-china/001-como-saber-se-um-produto-da-china-parece-bom-na-foto-mas-vai-decepcionar-no-brasil.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:40Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-como-saber-se-um-produto-da-china-parece-bom-na-foto-mas-vai-decepcionar-no-brasil",
-    "word_count": 442,
+    "word_count": 740,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -491,6 +491,59 @@
       {
         "type": "text",
         "text": "## Ficha de decisão do produto\n\nLeia este tema como ficha de SKU: demanda, margem, giro, embalagem e risco de encalhe.\n\nUm produto só merece lote maior quando o pedido teste mostra qualidade, margem final e chance real de venda no canal escolhido.\n\nSe a conta depende de vender rápido demais, trate como alerta de estoque, não como oportunidade garantida.\n\nPara este artigo, a leitura prática é: como saber se um produto da china parece bom na foto, mas vai decepcionar no brasil precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "text": "## Ferramenta prática: Ficha de amostra\n\nUse esta ferramenta junto com o artigo sobre Como saber se um produto da China parece bom na foto, mas vai decepcionar no Brasil?. Ela transforma a leitura de Produtos da China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra para: Como saber se um produto da China parece bom na foto, mas vai decepcionar no Brasil?",
+        "intro": "Amostra boa precisa virar critério. Não aprove só porque o item chegou.",
+        "headers": [
+          "Item",
+          "Como avaliar",
+          "Reprovar se"
+        ],
+        "rows": [
+          [
+            "Acabamento",
+            "Compare foto, material e toque",
+            "Difere do prometido"
+          ],
+          [
+            "Embalagem",
+            "Teste proteção e apresentação",
+            "Chega amassada ou sem padrão"
+          ],
+          [
+            "Uso real",
+            "Teste por algumas horas/dias",
+            "Falha antes de uso normal"
+          ],
+          [
+            "Repetição",
+            "Pergunte se o lote virá igual",
+            "Fornecedor não garante padrão"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Como saber se um produto da China parece bom na foto, mas vai decepcionar no Brasil?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Amostra recebida em: ____\nAcabamento: aprovado / revisar\nEmbalagem: aprovado / revisar\nTamanho/peso: aprovado / revisar\nTeste de uso: aprovado / revisar\nDiferença contra anúncio: ____\nPergunta antes do lote: ____"
       }
     ],
     "faq": [
@@ -512,7 +565,10 @@
       "length_band": "medium",
       "voice": "margin",
       "site_layout": "product",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "sample_acceptance",
+      "tool_label": "Ficha de amostra"
     }
   },
   {
@@ -535,10 +591,10 @@
     "path": "produtos-para-revenda/001-como-saber-se-um-produto-da-china-vai-encalhar-antes-mesmo-do-primeiro-lote.html",
     "url": "https://compraschinashop.com/produtos-para-revenda/001-como-saber-se-um-produto-da-china-vai-encalhar-antes-mesmo-do-primeiro-lote.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:40Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-como-saber-se-um-produto-da-china-vai-encalhar-antes-mesmo-do-primeiro-lote",
-    "word_count": 646,
+    "word_count": 955,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -584,6 +640,59 @@
       {
         "type": "text",
         "text": "## Ficha de decisão do produto\n\nLeia este tema como ficha de SKU: demanda, margem, giro, embalagem e risco de encalhe.\n\nUm produto só merece lote maior quando o pedido teste mostra qualidade, margem final e chance real de venda no canal escolhido.\n\nSe a conta depende de vender rápido demais, trate como alerta de estoque, não como oportunidade garantida.\n\nPara este artigo, a leitura prática é: como saber se um produto da china vai encalhar antes mesmo do primeiro lote precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "text": "## Ferramenta prática: Tabela de custo\n\nUse esta ferramenta junto com o artigo sobre Como saber se um produto da China vai encalhar antes mesmo do primeiro lote?. Ela transforma a leitura de Produtos para Revenda em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo para aplicar em: Como saber se um produto da China vai encalhar antes mesmo do primeiro lote?",
+        "intro": "Preencha com números conservadores. Se algum campo ficar em branco, a margem ainda não está pronta.",
+        "headers": [
+          "Campo",
+          "Como preencher",
+          "Sinal de alerta"
+        ],
+        "rows": [
+          [
+            "Preço do produto",
+            "Valor por unidade ou lote",
+            "Preço só aparece em mensagem solta"
+          ],
+          [
+            "Frete e embalagem",
+            "Inclua peso, caixa, etiqueta e envio interno",
+            "Frete ainda depende de chute"
+          ],
+          [
+            "Imposto/custo local",
+            "Use cenário conservador",
+            "A conta ignora chegada ao destino"
+          ],
+          [
+            "Margem mínima",
+            "Compare com preço real de venda",
+            "Lucro depende de vender rápido demais"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Como saber se um produto da China vai encalhar antes mesmo do primeiro lote?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Produto: ____\nQuantidade: ____\nPreço unitário: ____\nFrete internacional: ____\nImposto/custo local: ____\nEmbalagem/frete interno: ____\nPreço de venda real: ____\nMargem mínima: ____\nDecisão: pagar / testar menor / pausar"
       }
     ],
     "faq": [
@@ -605,7 +714,10 @@
       "length_band": "medium",
       "voice": "margin",
       "site_layout": "product",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "cost_calculator",
+      "tool_label": "Tabela de custo"
     }
   },
   {
@@ -628,10 +740,10 @@
     "path": "nichos-lucrativos/001-nicho-lucrativo-de-produto-importado-existe-mesmo-ou-quase-sempre-parece-melhor-no-papel.html",
     "url": "https://compraschinashop.com/nichos-lucrativos/001-nicho-lucrativo-de-produto-importado-existe-mesmo-ou-quase-sempre-parece-melhor-no-papel.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:40Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-nicho-lucrativo-de-produto-importado-existe-mesmo-ou-quase-sempre-parece-melhor-no-papel",
-    "word_count": 304,
+    "word_count": 615,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -677,6 +789,59 @@
       {
         "type": "text",
         "text": "## Ficha de decisão do produto\n\nLeia este tema como ficha de SKU: demanda, margem, giro, embalagem e risco de encalhe.\n\nUm produto só merece lote maior quando o pedido teste mostra qualidade, margem final e chance real de venda no canal escolhido.\n\nSe a conta depende de vender rápido demais, trate como alerta de estoque, não como oportunidade garantida.\n\nPara este artigo, a leitura prática é: nicho lucrativo de produto importado existe mesmo ou quase sempre parece melhor no papel precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "text": "## Ferramenta prática: Matriz de MOQ\n\nUse esta ferramenta junto com o artigo sobre Nicho lucrativo de produto importado existe mesmo ou quase sempre parece melhor no papel?. Ela transforma a leitura de Nichos Lucrativos em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ para decidir em: Nicho lucrativo de produto importado existe mesmo ou quase sempre parece melhor no papel?",
+        "intro": "MOQ não é só quantidade mínima. Ele precisa caber em caixa, teste e giro.",
+        "headers": [
+          "Pergunta",
+          "Resposta que ajuda",
+          "Risco"
+        ],
+        "rows": [
+          [
+            "MOQ declarado",
+            "Quantidade mínima por cor/modelo",
+            "MOQ parece baixo, mas mistura variações"
+          ],
+          [
+            "Valor do teste",
+            "Total que você aceita aprender",
+            "Teste prende caixa demais"
+          ],
+          [
+            "Giro esperado",
+            "Quanto vender em 30-60 dias",
+            "Quantidade exige venda rápida demais"
+          ],
+          [
+            "Próximo lote",
+            "Condição para repetir",
+            "Fornecedor só dá preço bom em volume alto"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Nicho lucrativo de produto importado existe mesmo ou quase sempre parece melhor no papel?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "MOQ informado: ____\nQuantidade que consigo testar: ____\nCapital máximo do teste: ____\nVariações/cor/modelo incluídas: ____\nGiro esperado em 30-60 dias: ____\nO que preciso vender para repetir: ____\nDecisão: aceitar MOQ / negociar / trocar produto"
       }
     ],
     "faq": [
@@ -698,7 +863,10 @@
       "length_band": "short",
       "voice": "margin",
       "site_layout": "product",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "moq_matrix",
+      "tool_label": "Matriz de MOQ"
     }
   },
   {
@@ -721,10 +889,10 @@
     "path": "produtos-para-revenda/002-produto-barato-da-china-vende-rapido-mesmo-ou-so-parece-lucrativo-na-planilha.html",
     "url": "https://compraschinashop.com/produtos-para-revenda/002-produto-barato-da-china-vende-rapido-mesmo-ou-so-parece-lucrativo-na-planilha.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:40Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-produto-barato-da-china-vende-rapido-mesmo-ou-so-parece-lucrativo-na-planilha",
-    "word_count": 392,
+    "word_count": 690,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -770,6 +938,59 @@
       {
         "type": "text",
         "text": "## Ficha de decisão do produto\n\nLeia este tema como ficha de SKU: demanda, margem, giro, embalagem e risco de encalhe.\n\nUm produto só merece lote maior quando o pedido teste mostra qualidade, margem final e chance real de venda no canal escolhido.\n\nSe a conta depende de vender rápido demais, trate como alerta de estoque, não como oportunidade garantida.\n\nPara este artigo, a leitura prática é: produto barato da china vende rápido mesmo ou só parece lucrativo na planilha precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "text": "## Ferramenta prática: Lista de risco de pagamento\n\nUse esta ferramenta junto com o artigo sobre Produto barato da China vende rápido mesmo ou só parece lucrativo na planilha?. Ela transforma a leitura de Produtos para Revenda em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento para: Produto barato da China vende rápido mesmo ou só parece lucrativo na planilha?",
+        "intro": "Antes de pagar, separe risco normal de risco sem prova.",
+        "headers": [
+          "Risco",
+          "Como reduzir",
+          "Não pagar se"
+        ],
+        "rows": [
+          [
+            "Produto vago",
+            "Descrição e prova salvas",
+            "Só existe promessa verbal"
+          ],
+          [
+            "Prazo incerto",
+            "Data e etapa por escrito",
+            "Fornecedor evita compromisso"
+          ],
+          [
+            "Pagamento adiantado",
+            "Valor menor, etapa ou plataforma",
+            "Pressa substitui prova"
+          ],
+          [
+            "Problema futuro",
+            "Defeito, atraso e reposição combinados",
+            "Ninguém assume responsabilidade"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Produto barato da China vende rápido mesmo ou só parece lucrativo na planilha?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Valor a pagar agora: ____\nO que já está provado: ____\nO que ainda está só prometido: ____\nForma de pagamento: ____\nProteção/plataforma: ____\nCondição em caso de problema: ____\nSe eu precisar reclamar, que prova tenho? ____"
       }
     ],
     "faq": [
@@ -791,7 +1012,10 @@
       "length_band": "short",
       "voice": "margin",
       "site_layout": "product",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "payment_risk",
+      "tool_label": "Lista de risco de pagamento"
     }
   },
   {
@@ -814,10 +1038,10 @@
     "path": "nichos-lucrativos/002-nicho-lucrativo-de-importado-existe-ou-voce-so-descobre-tarde-demais-que-a-margem-era-ilusao.html",
     "url": "https://compraschinashop.com/nichos-lucrativos/002-nicho-lucrativo-de-importado-existe-ou-voce-so-descobre-tarde-demais-que-a-margem-era-ilusao.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:40Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-nicho-lucrativo-de-importado-existe-ou-voce-so-descobre-tarde-demais-que-a-margem-era-ilusao",
-    "word_count": 566,
+    "word_count": 863,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -872,6 +1096,59 @@
       {
         "type": "text",
         "text": "## Ficha de decisão do produto\n\nLeia este tema como ficha de SKU: demanda, margem, giro, embalagem e risco de encalhe.\n\nUm produto só merece lote maior quando o pedido teste mostra qualidade, margem final e chance real de venda no canal escolhido.\n\nSe a conta depende de vender rápido demais, trate como alerta de estoque, não como oportunidade garantida.\n\nPara este artigo, a leitura prática é: nicho lucrativo de importado existe ou você só descobre tarde demais que a margem era ilusão precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "text": "## Ferramenta prática: Ficha de amostra\n\nUse esta ferramenta junto com o artigo sobre Nicho lucrativo de importado existe ou você só descobre tarde demais que a margem era ilusão?. Ela transforma a leitura de Nichos Lucrativos em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra para: Nicho lucrativo de importado existe ou você só descobre tarde demais que a margem era ilusão?",
+        "intro": "Amostra boa precisa virar critério. Não aprove só porque o item chegou.",
+        "headers": [
+          "Item",
+          "Como avaliar",
+          "Reprovar se"
+        ],
+        "rows": [
+          [
+            "Acabamento",
+            "Compare foto, material e toque",
+            "Difere do prometido"
+          ],
+          [
+            "Embalagem",
+            "Teste proteção e apresentação",
+            "Chega amassada ou sem padrão"
+          ],
+          [
+            "Uso real",
+            "Teste por algumas horas/dias",
+            "Falha antes de uso normal"
+          ],
+          [
+            "Repetição",
+            "Pergunte se o lote virá igual",
+            "Fornecedor não garante padrão"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Nicho lucrativo de importado existe ou você só descobre tarde demais que a margem era ilusão?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Amostra recebida em: ____\nAcabamento: aprovado / revisar\nEmbalagem: aprovado / revisar\nTamanho/peso: aprovado / revisar\nTeste de uso: aprovado / revisar\nDiferença contra anúncio: ____\nPergunta antes do lote: ____"
       }
     ],
     "faq": [
@@ -893,7 +1170,10 @@
       "length_band": "medium",
       "voice": "margin",
       "site_layout": "product",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "sample_acceptance",
+      "tool_label": "Ficha de amostra"
     }
   },
   {
@@ -916,10 +1196,10 @@
     "path": "produtos-da-china/002-produto-da-china-com-foto-bonita-merece-pedido-teste-pequeno-ou-isso-so-atrasa-sua-revenda.html",
     "url": "https://compraschinashop.com/produtos-da-china/002-produto-da-china-com-foto-bonita-merece-pedido-teste-pequeno-ou-isso-so-atrasa-sua-revenda.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:40Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-produto-da-china-com-foto-bonita-merece-pedido-teste-pequeno-ou-isso-so-atrasa-sua-revenda",
-    "word_count": 371,
+    "word_count": 678,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -965,6 +1245,59 @@
       {
         "type": "text",
         "text": "## Ficha de decisão do produto\n\nLeia este tema como ficha de SKU: demanda, margem, giro, embalagem e risco de encalhe.\n\nUm produto só merece lote maior quando o pedido teste mostra qualidade, margem final e chance real de venda no canal escolhido.\n\nSe a conta depende de vender rápido demais, trate como alerta de estoque, não como oportunidade garantida.\n\nPara este artigo, a leitura prática é: produto da china com foto bonita merece pedido teste pequeno ou isso só atrasa sua revenda precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "text": "## Ferramenta prática: Checklist de fornecedor\n\nUse esta ferramenta junto com o artigo sobre Produto da China com foto bonita merece pedido teste pequeno ou isso só atrasa sua revenda?. Ela transforma a leitura de Produtos da China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor para: Produto da China com foto bonita merece pedido teste pequeno ou isso só atrasa sua revenda?",
+        "intro": "Marque apenas o que tem prova salva. Impressão boa não conta como validação.",
+        "headers": [
+          "Checagem",
+          "Prova aceitável",
+          "Quando pausar"
+        ],
+        "rows": [
+          [
+            "Empresa e contato",
+            "Nome, página, histórico e pessoa responsável",
+            "Contato muda de assunto ou some"
+          ],
+          [
+            "Produto real",
+            "Vídeo, foto própria ou amostra",
+            "Só há catálogo genérico"
+          ],
+          [
+            "Prazo e embalagem",
+            "Resposta escrita com detalhe",
+            "Resposta fica em 'sem problema'"
+          ],
+          [
+            "Condição de erro",
+            "Defeito, atraso e reposição explicados",
+            "Fornecedor pressiona pagamento antes da prova"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Produto da China com foto bonita merece pedido teste pequeno ou isso só atrasa sua revenda?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Fornecedor: ____\nContato: ____\nProduto confirmado por prova real? ____\nEmbalagem confirmada? ____\nPrazo escrito? ____\nCondição para defeito/atraso: ____\nPrints salvos: ____\nDecisão: avançar / pedir prova / trocar fornecedor"
       }
     ],
     "faq": [
@@ -986,7 +1319,10 @@
       "length_band": "short",
       "voice": "margin",
       "site_layout": "product",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "supplier_checklist",
+      "tool_label": "Checklist de fornecedor"
     }
   },
   {
@@ -1009,10 +1345,10 @@
     "path": "produtos-da-china/003-produto-da-china-que-viraliza-rapido-no-video-continua-forte-quando-chega-ao-brasil-de-verdade.html",
     "url": "https://compraschinashop.com/produtos-da-china/003-produto-da-china-que-viraliza-rapido-no-video-continua-forte-quando-chega-ao-brasil-de-verdade.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:40Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 3,
     "slug": "003-produto-da-china-que-viraliza-rapido-no-video-continua-forte-quando-chega-ao-brasil-de-verdade",
-    "word_count": 658,
+    "word_count": 956,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -1067,6 +1403,59 @@
       {
         "type": "text",
         "text": "## Ficha de decisão do produto\n\nLeia este tema como ficha de SKU: demanda, margem, giro, embalagem e risco de encalhe.\n\nUm produto só merece lote maior quando o pedido teste mostra qualidade, margem final e chance real de venda no canal escolhido.\n\nSe a conta depende de vender rápido demais, trate como alerta de estoque, não como oportunidade garantida.\n\nPara este artigo, a leitura prática é: produto da china que viraliza rápido no vídeo continua forte quando chega ao brasil de verdade precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "text": "## Ferramenta prática: Ficha de amostra\n\nUse esta ferramenta junto com o artigo sobre Produto da China que viraliza rápido no vídeo continua forte quando chega ao Brasil de verdade?. Ela transforma a leitura de Produtos da China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra para: Produto da China que viraliza rápido no vídeo continua forte quando chega ao Brasil de verdade?",
+        "intro": "Amostra boa precisa virar critério. Não aprove só porque o item chegou.",
+        "headers": [
+          "Item",
+          "Como avaliar",
+          "Reprovar se"
+        ],
+        "rows": [
+          [
+            "Acabamento",
+            "Compare foto, material e toque",
+            "Difere do prometido"
+          ],
+          [
+            "Embalagem",
+            "Teste proteção e apresentação",
+            "Chega amassada ou sem padrão"
+          ],
+          [
+            "Uso real",
+            "Teste por algumas horas/dias",
+            "Falha antes de uso normal"
+          ],
+          [
+            "Repetição",
+            "Pergunte se o lote virá igual",
+            "Fornecedor não garante padrão"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Produto da China que viraliza rápido no vídeo continua forte quando chega ao Brasil de verdade?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Amostra recebida em: ____\nAcabamento: aprovado / revisar\nEmbalagem: aprovado / revisar\nTamanho/peso: aprovado / revisar\nTeste de uso: aprovado / revisar\nDiferença contra anúncio: ____\nPergunta antes do lote: ____"
       }
     ],
     "faq": [
@@ -1088,7 +1477,10 @@
       "length_band": "medium",
       "voice": "margin",
       "site_layout": "product",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "sample_acceptance",
+      "tool_label": "Ficha de amostra"
     }
   }
 ]
