@@ -1,0 +1,69 @@
+{
+  "site_name": "Compras China Shop",
+  "site_base_url": "https://compraschinashop.com",
+  "language": "pt-BR",
+  "tagline": "Conteúdo para brasileiros que querem descobrir produtos da China, atacado e oportunidades de revenda.",
+  "description": "Um site focado em produtos da China, compras no atacado, seleção de itens para revenda e análise de nichos lucrativos.",
+  "author_name": "Redação Compras China Shop",
+  "brand_color": "#d84315",
+  "accent_color": "#ffd54f",
+  "default_og_image": "/assets/og/default.webp",
+  "whatsapp": "https://wa.me/601133109658",
+  "default_categories": [
+    "Produtos da China",
+    "Compras no Atacado",
+    "Produtos para Revenda",
+    "Nichos Lucrativos"
+  ],
+  "category_meta": {
+    "produtos-da-china": {
+      "label": "Produtos da China",
+      "description": "Guias sobre categorias de produtos, itens populares e análise do que vale a pena estudar."
+    },
+    "compras-no-atacado": {
+      "label": "Compras no Atacado",
+      "description": "Conteúdo sobre volumes maiores, MOQ, preço unitário e planejamento de compra em escala."
+    },
+    "produtos-para-revenda": {
+      "label": "Produtos para Revenda",
+      "description": "Artigos para quem quer revender produtos chineses e comparar potencial de margem."
+    },
+    "nichos-lucrativos": {
+      "label": "Nichos Lucrativos",
+      "description": "Ideias e análises de nichos mais promissores para vender produtos importados."
+    }
+  },
+  "hero_title": "O que comprar da China para vender com mais inteligência",
+  "hero_subtitle": "Um site voltado para seleção de produtos, atacado, teste de nichos e oportunidades de revenda no mercado brasileiro.",
+  "primary_cta_label": "Explorar produtos",
+  "primary_cta_target": "/produtos-da-china/",
+  "secondary_cta_label": "Ver nichos lucrativos",
+  "secondary_cta_target": "/nichos-lucrativos/",
+  "pain_points": [
+    "Não saber quais produtos valem a pena",
+    "Comprar item sem demanda real",
+    "Entrar em nicho já saturado",
+    "Errar no MOQ e imobilizar capital",
+    "Não entender margem de revenda",
+    "Misturar modinha com oportunidade real"
+  ],
+  "homepage_featured_categories": [
+    "produtos-da-china",
+    "produtos-para-revenda",
+    "nichos-lucrativos"
+  ],
+  "homepage_faq": [
+    {
+      "q": "Quais produtos da China valem mais a pena para revenda?",
+      "a": "Os melhores produtos para revenda são os que combinam demanda real, margem possível, baixo risco de devolução e compra inicial controlada."
+    },
+    {
+      "q": "Como escolher um nicho lucrativo sem cair em modinha?",
+      "a": "O ideal é analisar demanda, concorrência, ticket, reposição e possibilidade de testar o produto antes de escalar."
+    },
+    {
+      "q": "Comprar no atacado da China é melhor do que testar pequeno?",
+      "a": "Nem sempre. Para quem ainda está validando produto e mercado, testar pequeno costuma proteger melhor o caixa."
+    }
+  ]
+}
