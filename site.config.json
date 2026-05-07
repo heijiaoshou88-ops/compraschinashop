@@ -5,9 +5,9 @@
   "homepage_layout": "product",
   "site_name": "Compras China Shop",
   "site_base_url": "https://compraschinashop.com",
-  "tagline": "Produtos da China para revenda com foco em SKU, margem, giro e risco de estoque.",
-  "description": "Compras China Shop analisa produto chin\u00eas como item de revenda: sele\u00e7\u00e3o de SKU, margem, demanda, embalagem, pedido teste, giro de estoque e risco de encalhe.",
-  "author_name": "Reda\u00e7\u00e3o Compras China Shop",
+  "tagline": "Produto da China para revenda precisa provar giro, não só preço",
+  "description": "Filtros para avaliar SKU, lote, estoque, margem líquida, devolução e quando o produto bonito deve ficar só no teste.",
+  "author_name": "Equipe Compras China Shop, especialista em produto importado para revenda",
   "brand_color": "#d84315",
   "accent_color": "#ffd54f",
   "default_categories": [
@@ -17,31 +17,29 @@
   ],
   "category_meta": {
     "produtos-da-china": {
-      "label": "Sele\u00e7\u00e3o de SKU",
+      "label": "Seleção de SKU",
       "description": "Como avaliar produto, foto, amostra, qualidade percebida e risco antes de comprar para vender."
     },
     "produtos-para-revenda": {
       "label": "Revenda e Margem",
-      "description": "Crit\u00e9rios de pre\u00e7o, margem, canal, giro, embalagem e p\u00f3s-venda para produto importado."
+      "description": "Critérios de preço, margem, canal, giro, embalagem e pós-venda para produto importado."
     },
     "nichos-lucrativos": {
       "label": "Nichos e Demanda",
-      "description": "Leitura de nicho, sazonalidade, concorr\u00eancia e sinais de demanda antes de apostar em estoque."
+      "description": "Leitura de nicho, sazonalidade, concorrência e sinais de demanda antes de apostar em estoque."
     }
   },
-  "hero_title": "Produtos da China para revenda: SKU, margem e giro",
-  "hero_subtitle": "Conte\u00fado para quem escolhe produto para revenda e precisa comparar demanda, qualidade, pedido teste, margem e risco de estoque antes de importar.",
-  "primary_cta_label": "Avaliar SKU",
-  "primary_cta_target": "/produtos-da-china/",
-  "secondary_cta_label": "Checar margem de revenda",
-  "secondary_cta_target": "/produtos-para-revenda/",
+  "hero_title": "Produto da China para revenda com margem real, giro e teste pequeno",
+  "hero_subtitle": "Filtros para avaliar SKU, lote, estoque, margem líquida, devolução e quando o produto bonito deve ficar só no teste.",
+  "primary_cta_label": "Avaliar produto",
+  "primary_cta_target": "/produtos-da-china/004-como-saber-se-um-produto-da-china-serve-para-revenda.html",
+  "secondary_cta_label": "Calcular margem",
+  "secondary_cta_target": "/produtos-para-revenda/003-como-calcular-margem-de-um-sku-importado-da-china.html",
   "pain_points": [
-    "Comprar produto bonito sem validar demanda",
-    "Ignorar margem depois de frete, taxa e embalagem",
-    "Apostar em tend\u00eancia antes de medir giro",
-    "Comprar estoque sem pedido teste",
-    "Escolher SKU dif\u00edcil de explicar ou entregar",
-    "Confundir pre\u00e7o baixo com produto vend\u00e1vel"
+    "Risco central: 产品选择、利润、SKU、库存、转售风险、测试小单",
+    "Leitor atendido: revendedor que precisa escolher SKU sem travar caixa em estoque ruim",
+    "Fronteira editorial: 不抢清关税费主词和供应链工厂词",
+    "Decisão sempre baseada em prova, custo e condição para pausar"
   ],
   "homepage_featured_categories": [
     "produtos-da-china",
@@ -50,22 +48,23 @@
   ],
   "homepage_faq": [
     {
-      "q": "Este site fala de importa\u00e7\u00e3o geral?",
-      "a": "N\u00e3o. O foco \u00e9 produto para revenda: SKU, margem, giro, nicho e risco de estoque."
+      "q": "Como saber se um produto da China serve para revenda?",
+      "a": "Ele precisa passar por margem líquida, giro provável, embalagem, devolução e reposição, não só preço baixo."
     },
     {
-      "q": "Como saber se um produto chin\u00eas serve para revenda?",
-      "a": "Compare demanda, margem final, qualidade percebida, facilidade de entrega, concorr\u00eancia e risco de encalhe."
+      "q": "Quando um SKU pode encalhar?",
+      "a": "Quando MOQ é alto, demanda é incerta e a margem só fecha no cenário perfeito."
     },
     {
-      "q": "Produto viral \u00e9 sempre boa aposta?",
-      "a": "N\u00e3o. Produto viral pode vender r\u00e1pido, mas tamb\u00e9m pode saturar, quebrar margem ou exigir estoque que n\u00e3o gira."
+      "q": "Produto viral merece estoque?",
+      "a": "Só depois de testar demanda, prazo de reposição e risco de chegar tarde ao mercado."
     }
   ],
   "author_profile": {
     "name": "Equipe editorial Compras China Shop",
     "role": "Pesquisa editorial sobre SKU, revenda e margem",
     "bio": "Equipe dedicada a avaliar produto importado como item de revenda, considerando demanda, giro, embalagem, margem e risco de estoque.",
-    "experience": "Os artigos usam fichas de decis\u00e3o e tabelas de margem para evitar compra por impulso ou estoque sem valida\u00e7\u00e3o."
-  }
+    "experience": "Os artigos usam fichas de decisão e tabelas de margem para evitar compra por impulso ou estoque sem validação."
+  },
+  "precision_homepage_type": "negócio"
 }
