@@ -1237,7 +1237,7 @@
     "faq_count": 3,
     "related_links": [
       {
-        "title": "Margem real: custo landed antes de travar caixa",
+        "title": "Produto que encalha: teste antes do primeiro lote",
         "url": "/produtos-para-revenda/001-como-saber-se-um-produto-da-china-vai-encalhar-antes-mesmo-do-primeiro-lote.html"
       },
       {
@@ -1863,42 +1863,43 @@
   },
   {
     "id": "20260505-produtos-para-revenda-001",
-    "title": "Custo landed: quando o caixa ainda não aguenta o lote",
-    "description": "Nesta decisão, o risco em como escolher produto da China nem sempre é o preço. Entenda onde a compra quebra antes de pagar.",
+    "title": "Produto da China vai encalhar? Teste antes do primeiro lote",
+    "description": "Antes de comprar estoque, avalie demanda, MOQ, margem, frete, devolução e sinais de encalhe para decidir GO, WAIT ou STOP no primeiro lote.",
     "category": "Produtos para Revenda",
     "category_slug": "produtos-para-revenda",
     "tags": [
+      "produto da China",
+      "estoque parado",
       "revenda",
-      "produto",
-      "estoque"
+      "primeiro lote"
     ],
-    "core_keyword": "como escolher produto da China para revenda",
+    "core_keyword": "produto da China para revenda",
     "long_keywords": [
-      "produto da China que vende no Brasil",
+      "como saber se produto da China vai encalhar",
       "como evitar estoque parado importado",
       "teste de produto para revenda da China"
     ],
     "path": "produtos-para-revenda/001-como-saber-se-um-produto-da-china-vai-encalhar-antes-mesmo-do-primeiro-lote.html",
     "url": "https://compraschinashop.com/produtos-para-revenda/001-como-saber-se-um-produto-da-china-vai-encalhar-antes-mesmo-do-primeiro-lote.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-06",
+    "updated_at": "2026-05-23T19:15:00Z",
     "number": 1,
     "slug": "001-como-saber-se-um-produto-da-china-vai-encalhar-antes-mesmo-do-primeiro-lote",
-    "word_count": 1307,
+    "word_count": 843,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
       {
-        "title": "Margem real: custo landed antes de comprar estoque",
-        "url": "/produtos-para-revenda/003-como-calcular-margem-de-um-sku-importado-da-china.html"
-      },
-      {
-        "title": "Margem real: margem do SKU antes de travar caixa",
-        "url": "/produtos-para-revenda/002-produto-barato-da-china-vende-rapido-mesmo-ou-so-parece-lucrativo-na-planilha.html"
-      },
-      {
-        "title": "Margem real: margem do SKU antes de comprar estoque",
+        "title": "Produto da China para revenda: como saber antes do lote",
         "url": "/produtos-da-china/004-como-saber-se-um-produto-da-china-serve-para-revenda.html"
+      },
+      {
+        "title": "Garrafa térmica inox: margem, MOQ e risco de encalhe",
+        "url": "/produtos-para-revenda/004-garrafa-termica-inox-da-china-margem-ou-estoque-parado.html"
+      },
+      {
+        "title": "Custo landed do SKU antes de travar caixa",
+        "url": "/produtos-para-revenda/003-como-calcular-margem-de-um-sku-importado-da-china.html"
       }
     ],
     "references": [
@@ -1907,7 +1908,7 @@
         "url": "https://sebrae.com.br/sites/PortalSebrae/saiba-como-selecionar-fornecedores-internacionais-para-importacao%2C6116de632fe07810VgnVCM1000001b00320aRCRD?codTema=5&origem=tema"
       },
       {
-        "title": "Alibaba: how to choose original products to sell",
+        "title": "Alibaba: how to choose products to sell",
         "url": "https://www.alibaba.com/product-insights/how-to-choose-original-products-to-sell-a-complete-buyer-s-guide.html"
       },
       {
@@ -1921,74 +1922,72 @@
       {
         "type": "image",
         "path": "assets/produtos-para-revenda/001-como-saber-se-um-produto-da-china-vai-encalhar-antes-mesmo-do-primeiro-lote/01.webp",
-        "alt": "Amostra e etiqueta conferidas antes do envio perto da caixa",
+        "alt": "Planilha de margem e giro antes do primeiro lote",
         "round4_content_audit": true,
         "final_deep_review_alt": true,
         "p1_alt_cleanup": true
       },
       {
         "type": "text",
-        "text": "## A margem que precisa sobreviver ao estoque\n\nAntes de tratar custo landed como oportunidade, leia a página como uma decisão de compra real em Produtos para Revenda. O ponto não é preencher mais texto. É descobrir se existe prova suficiente para avançar, se falta uma peça para esperar ou se o melhor movimento é parar antes de enviar dinheiro.\n\n## GO / WAIT / STOP antes de travar caixa\n\nSTOP: pare se a margem do pedido de custo landed só existe antes de somar frete, imposto, taxa da plataforma, devolução e estoque parado por mais de 40 dias.\n\nWAIT: espere se custo landed parece vender, mas você ainda não testou preço final, giro em 30 dias, embalagem, reposição e perda acima de 13%.\n\nGO: avance com lote teste de custo landed se a margem sobrevive a 13% de custo extra, 7 dias de atraso e venda mais lenta que o esperado.\n\n## Campos de revenda antes do lote\n\nPara revender custo landed, o campo importante é o que sobra depois de frete, imposto, taxa e estoque parado. A ficha abaixo coloca a margem contra números reais.\n\nCusto do SKU: FOB US$ 8.03 vira CIF US$ 10.44 antes de imposto, embalagem e taxa de venda.\n\nMOQ: teste 108 unidades antes de aceitar caixa fechada que trava capital.\n\nICMS: simule 17% - 25% e depois aplique a margem da sua plataforma ou canal de revenda.\n\nFrete e giro: LCL US$ 168 - US$ 326 só faz sentido se o produto gira antes de 48 dias.\n\nPerda: se 16% de devolução ou estoque parado mata a margem, não é produto para lote cheio.\n\nSe 16% de custo extra mata a margem de custo landed, trate como WAIT; se o MOQ trava caixa antes do teste, trate como STOP.\n\n## A margem depois do frete: custo landed\n\nSe você está olhando para kit eletrônico e já tem uma resposta do fornecedor no WhatsApp, o problema raramente é falta de informação. O problema é saber qual informação pesa de verdade antes de pagar. Nesta compra, a decisão precisa sair da conversa bonita e entrar na prova, na conta e no limite de perda.\n\nNa prática, compradores brasileiros enfrentam esse ponto quando o preço parece bom, mas pagamento antes da amostra continua sem explicação. Um pedido de US$ 1.350 com MOQ de 80 unidades e prazo perto de 31 dias pode ser um teste controlado ou uma aposta cara. A ideia aqui é cortar a parte genérica e chegar na decisão.\n\n## O giro que decide o estoque\n\nPrimeiro, escreva em uma linha o que está sendo comprado, em qual quantidade e qual perda máxima você aceita se o teste der errado. Depois, peça uma prova simples que possa ser salva: vídeo curto, invoice detalhada, foto real da embalagem ou amostra. Por fim, compare a resposta com a conta. Se a prova chega incompleta, o próximo movimento é reduzir o lote ou pedir esclarecimento, não acelerar o pagamento.\n\n## Quando o produto bonito não paga a conta\n\nO erro mais comum é tratar silêncio como detalhe e resposta rápida como segurança. Outro erro é aceitar MOQ alto porque o preço unitário caiu. Quando o fornecedor responde bem no começo e escapa quando a pergunta fica específica, o risco não está na plataforma. Está na falta de compromisso verificável.\n\n## A pergunta que destrava a próxima ação\n\nQuando como escolher produto da China para revenda fica travado, não mande uma mensagem genérica. Faça uma pergunta que obrigue o fornecedor a provar a condição principal. Para o revendedor, uma boa pergunta separa conversa comercial de compra verificável.\n\nMensagem para enviar agora:\n\n\"Você pode confirmar por escrito o produto, a quantidade, a embalagem, o prazo de produção, o frete estimado e a condição de amostra para como escolher produto da China para revenda?\"\n\nSe a resposta vier completa, avance pequeno. Se vier só com promessa, espere. Se vier com pressão para pagar antes da prova, pare. O objetivo é simples: simular preço final, testar SKU pequeno e parar se o giro não sustenta estoque.\n\n## A prova que deve ficar salva\n\nA melhor prova para como escolher produto da China para revenda é aquela que você consegue abrir depois: vídeo, foto atual, invoice, etiqueta, prazo e conversa escrita. Se a compra der problema, esses registros mostram onde a decisão falhou. Sem prova salva, o revendedor fica dependente da memória do vendedor.\n\nAntes de fechar a leitura, anote uma resposta binária: posso provar isso depois ou só estou confiando na conversa? Se a prova não fica salva, reduza o pedido, peça amostra ou deixe a compra para outra rodada. Essa pausa costuma custar menos que corrigir lote errado. Guarde o print, a invoice e a resposta do prazo na mesma pasta do pedido; sem esse registro, a próxima decisão começa fraca e cara antes de pagar. Revise tudo sem pressa comercial."
+        "text": "## O risco não aparece no preço unitário\n\nProduto barato da China pode encalhar mesmo quando a margem parece boa na primeira planilha. O erro comum é olhar preço FOB, gostar da foto e pedir um lote maior antes de testar se o público realmente entende o produto, aceita o preço final e compra de novo.\n\nAntes do primeiro lote, a pergunta não é “esse produto é bonito?”. A pergunta é: se eu receber 80, 120 ou 200 unidades, quanto tempo meu caixa aguenta até vender sem queima de preço? Essa diferença muda a decisão.\n\n## Teste de demanda antes do estoque\n\nComece com um teste simples. Publique o produto para uma audiência pequena, valide preço final já com frete e imposto e conte quantas pessoas perguntam por tamanho, cor, garantia ou entrega. Pergunta vaga não é demanda. Pedido reservado, lista de interessados e recompra provável valem mais.\n\nUse três números antes de falar em lote: margem líquida mínima, prazo máximo de giro e perda aceitável. Se qualquer um deles ainda estiver no chute, o lote cheio não está pronto.\n\n## GO, WAIT ou STOP no primeiro lote\n\nGO: avance pequeno quando o produto tem procura visível, margem líquida depois de frete e imposto, embalagem simples, variação controlada e fornecedor capaz de repetir a mesma especificação.\n\nWAIT: espere quando as pessoas gostam do vídeo, mas não aceitam o preço final; quando o MOQ força variedade demais; ou quando o fornecedor ainda não confirmou embalagem, peso, reposição e prazo.\n\nSTOP: pare quando a margem só fecha antes do frete, quando a venda depende de modinha de poucos dias, quando a devolução provável come o lucro ou quando o fornecedor pressiona pagamento sem prova atual do produto.\n\n## Conta rápida para não travar caixa\n\nImagine um item com FOB de US$ 4,80, MOQ de 120 unidades e frete que eleva o custo para US$ 7,10 antes de imposto, embalagem e taxa de venda. Se o preço final no Brasil precisa ficar alto demais para o público que você alcança, a margem da planilha não importa.\n\nAgora simule o pior caso aceitável: 20% das unidades vendem devagar, 8% precisam de troca ou desconto e o prazo real passa de 35 para 50 dias. Se esse cenário quebra seu caixa, o produto não merece lote cheio. Ele merece amostra, pré-venda ou um teste menor.\n\n## O que pedir ao fornecedor\n\nAntes de pagar, peça vídeo atual do produto, foto da embalagem real, peso por unidade, quantidade por caixa, MOQ de teste, prazo de produção, regra se vier diferente da amostra e custo estimado de reposição. A resposta precisa ser específica. Se vier só “friend, good quality”, trate como sinal de espera.\n\nMensagem copiável: “Para decidir o primeiro lote, pode confirmar MOQ de teste, peso por unidade, embalagem real, prazo de produção, variações disponíveis e o que acontece se o produto vier diferente da amostra?”\n\n## Sinais de encalhe antes de comprar\n\nO primeiro sinal é variedade demais. Muitas cores, tamanhos ou modelos parecem aumentar chance de venda, mas dividem o caixa e deixam sobras difíceis de girar. O segundo sinal é dependência de tendência: se o produto só vende enquanto um vídeo está viral, o tempo de importação pode chegar tarde.\n\nO terceiro sinal é margem frágil. Quando 10% de desconto, uma devolução pequena ou atraso de duas semanas já derruba o lucro, não existe folga para aprender com o primeiro lote. O quarto sinal é reposição incerta: se você vender bem e não conseguir repetir o mesmo produto, a operação vira aposta única.\n\n## Quando comprar mais\n\nAumente o lote só depois de medir venda real, dúvida dos clientes, motivo de devolução e tempo até recuperar o caixa. Um bom produto para revenda não é o que parece barato no fornecedor. É o que sobrevive à conta, ao prazo e ao comportamento do comprador brasileiro."
       },
       {
         "type": "image",
         "path": "assets/produtos-para-revenda/001-como-saber-se-um-produto-da-china-vai-encalhar-antes-mesmo-do-primeiro-lote/02.webp",
-        "alt": "Campos de custo destacados em uma planilha na bancada",
-        "round5_image_audit": true,
-        "image_role": "tool",
+        "alt": "Caixas pequenas separadas para teste de revenda antes de aumentar o lote",
         "round4_content_audit": true,
         "final_deep_review_alt": true,
         "p1_alt_cleanup": true
       },
       {
         "type": "tool",
-        "title": "Ficha de margem copiável: custo landed antes de travar caixa",
-        "intro": "Use antes de transformar custo landed antes de travar caixa em estoque. O objetivo é saber se o SKU aguenta custo extra e giro lento.",
+        "title": "Checklist antes do primeiro lote",
+        "intro": "Use esta lista antes de transformar produto promissor em estoque parado.",
         "items": [
-          "[ ] custo FOB/CIF e frete por unidade de custo landed antes de travar caixa calculados",
-          "[ ] ICMS, taxa de marketplace e embalagem somados",
-          "[ ] MOQ de teste cabe no caixa sem travar reposição",
-          "[ ] preço de venda e margem com 10% de custo extra",
-          "[ ] prazo de giro e limite de estoque parado definidos",
-          "[ ] regra para devolução ou produto diferente registrada"
+          "preço final testado com frete, imposto, embalagem e taxa de venda",
+          "MOQ de teste cabe no caixa sem bloquear reposição de outros produtos",
+          "demanda validada por reserva, pré-venda ou pedidos reais, não só curtida",
+          "variações de cor/tamanho reduzidas para evitar sobra quebrada",
+          "prazo de giro máximo definido antes do pagamento",
+          "regra de STOP escrita se prova, prazo ou margem não fecharem juntos"
         ],
-        "copy_text": "Antes de pagar:\n[ ] custo FOB/CIF e frete por unidade de custo landed antes de travar caixa calculados\n[ ] ICMS, taxa de marketplace e embalagem somados\n[ ] MOQ de teste cabe no caixa sem travar reposição\n[ ] preço de venda e margem com 10% de custo extra\n[ ] prazo de giro e limite de estoque parado definidos\n[ ] regra para devolução ou produto diferente registrada\n\nDados para preencher:\nProduto/tema: custo landed antes de travar caixa\nNCM provisório: 7326.90 (confirmar antes da invoice)\nFOB: US$ 5.24/unidade\nCIF estimado: US$ 6.60/unidade\nMOQ de teste: 169 unidades\nFrete: LCL US$ 209 - US$ 363 / FCL só se volume justificar\nICMS ou imposto local: 17% - 25% como faixa de simulação\nPrazo realista: 43 - 54 dias\nPagamento: pagamento compatível com giro do SKU\n\nMensagem para copiar no WhatsApp:\n\"Para avaliar custo landed antes de travar caixa, pode confirmar MOQ, FOB, CIF, frete, prazo de produção, embalagem e condição se o lote vier diferente da amostra?\"\n\nDecisão:\nGO: teste quando a margem sobrevive a custo extra, atraso e venda mais lenta.\nWAIT: espere se o produto parece vender, mas você ainda não sabe giro, devolução ou reposição.\nSTOP: pare se o MOQ trava caixa antes de provar demanda."
+        "copy_text": "Antes de pagar o primeiro lote:\n[ ] preço final testado com frete, imposto, embalagem e taxa de venda\n[ ] MOQ de teste cabe no caixa sem bloquear reposição de outros produtos\n[ ] demanda validada por reserva, pré-venda ou pedidos reais, não só curtida\n[ ] variações de cor/tamanho reduzidas para evitar sobra quebrada\n[ ] prazo de giro máximo definido antes do pagamento\n[ ] regra de STOP escrita se prova, prazo ou margem não fecharem juntos\n\nDecisão:\nGO: demanda e margem comprovadas.\nWAIT: falta prova ou número.\nSTOP: margem, prazo ou fornecedor não fecham juntos."
       },
       {
         "type": "text",
-        "text": "## O giro que decide o estoque na revisão do pagamento\n\nA ação correta não é sempre comprar nem sempre desistir. Se a resposta vem clara, a conta suporta variação e a perda máxima cabe no caixa, avance pequeno. Se a resposta vem vaga, reduza exposição. Se o fornecedor pressiona pagamento rápido, pare.\n\n## A margem depois do frete na resposta do fornecedor\n\nA leitura desta página segue o critério editorial de Especialista Compras China Shop, Analista editorial de SKU, margem e revenda. A experiência usada aqui vem de 5 anos lidando com fornecedores chineses, pedidos de teste, amostras e decisões de produto para revenda. Critério editorial: margem só conta depois de frete, imposto, taxa, devolução e prazo de giro. Não há promessa de lucro, menor preço ou liberação sem problema; há um método para reduzir decisão impulsiva.\n\n## Quando o produto bonito não paga a conta antes do frete\n\nSe quiser revisar essa compra com mais calma, mande produto, valor cotado, MOQ e a dúvida principal. O retorno precisa começar pelo risco que ainda está aberto, não pelo desconto."
+        "text": "## Perguntas frequentes\n\n### Como saber se o produto vai encalhar?\n\nEle tende a encalhar quando a venda depende só de preço baixo, quando há muitas variações, quando o prazo de chegada passa do interesse do público ou quando a margem não aguenta desconto e devolução.\n\n### MOQ alto sempre é ruim?\n\nNão. MOQ alto só faz sentido depois de prova de demanda e margem. Para primeiro lote, MOQ alto sem teste costuma transformar aprendizado em estoque parado.\n\n### Vale comprar só amostra?\n\nVale quando ainda faltam prova de qualidade, embalagem, peso, aceitação do preço final ou confiança no fornecedor. Amostra não resolve tudo, mas evita descobrir o erro com caixa cheio."
       }
     ],
     "faq": [
       {
-        "q": "Quando o preço deixa de compensar?",
-        "a": "Quando frete, imposto e uma folga de erro tiram a margem mínima do pedido."
+        "q": "Como saber se o produto vai encalhar?",
+        "a": "Ele tende a encalhar quando a venda depende só de preço baixo, quando há muitas variações, quando o prazo de chegada passa do interesse do público ou quando a margem não aguenta desconto e devolução."
       },
       {
-        "q": "O que precisa entrar na conta?",
-        "a": "Produto, frete, imposto estimado, embalagem, taxa, câmbio, prazo e perda possível."
+        "q": "MOQ alto sempre é ruim?",
+        "a": "Não. MOQ alto só faz sentido depois de prova de demanda e margem. Para primeiro lote, MOQ alto sem teste costuma transformar aprendizado em estoque parado."
       },
       {
-        "q": "Quando o prazo pesa demais?",
-        "a": "Quando 31 dias de espera apertam caixa, reposição ou promessa feita ao cliente."
+        "q": "Vale comprar só amostra?",
+        "a": "Vale quando ainda faltam prova de qualidade, embalagem, peso, aceitação do preço final ou confiança no fornecedor. Amostra não resolve tudo, mas evita descobrir o erro com caixa cheio."
       }
     ],
     "generation_profile": {
       "archetype": "judgment",
       "length_band": "medium",
-      "voice": "margin",
+      "voice": "estoque_parado",
       "site_layout": "product",
       "cleanup": "p0_similarity_reduction",
       "tool_round": "round4_tool_content",
-      "tool_type": "cost_calculator",
-      "tool_label": "Tabela de custo",
+      "tool_type": "first_lot_checklist",
+      "tool_label": "Checklist antes do primeiro lote",
       "image_audit_round": "round5_image_fit",
       "image_target_count": 2,
       "image_count_after_audit": 2,
       "content_deep_audit_round": "round4-content-deep-audit",
       "rewrite_level": "full_reconstruction",
       "round4_content_deep_audit": true,
-      "topic": "sku",
+      "topic": "estoque_parado",
       "content_mode": "rewrite_not_paraphrase",
       "has_real_scenario": true,
       "has_decision_logic": true,
@@ -2000,13 +1999,13 @@
       "engineering_content_audit": true,
       "audit_focus": "tom editorial e estrutura SEO",
       "precision_fix_round": true,
-      "structure_type": "tutorial",
+      "structure_type": "decision_checklist",
       "pillar_expanded": false,
       "p1_meta_detemplated": true,
       "p2_support_expanded": true,
       "p2_support_variant": "A pergunta que destrava a próxima ação"
     },
-    "precision_structure_type": "tutorial",
+    "precision_structure_type": "decision_checklist",
     "precision_pillar": false
   },
   {
@@ -2226,7 +2225,7 @@
         "url": "/produtos-para-revenda/003-como-calcular-margem-de-um-sku-importado-da-china.html"
       },
       {
-        "title": "Margem real: custo landed antes de travar caixa",
+        "title": "Produto que encalha: teste antes do primeiro lote",
         "url": "/produtos-para-revenda/001-como-saber-se-um-produto-da-china-vai-encalhar-antes-mesmo-do-primeiro-lote.html"
       },
       {
