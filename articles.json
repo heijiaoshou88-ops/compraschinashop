@@ -122,7 +122,7 @@
   {
     "id": "20260523-produtos-para-revenda-012",
     "title": "Produtos da China para revender: matriz de MOQ, margem e risco",
-    "description": "Use uma matriz simples para avaliar produto da China antes do estoque: margem por unidade, MOQ em dinheiro parado, risco regulat?rio, devolu??o e reposi??o.",
+    "description": "Use uma matriz simples para avaliar produto da China antes do estoque: margem por unidade, MOQ em dinheiro parado, risco regulatório, devolução e reposição.",
     "category": "Produtos para Revenda",
     "category_slug": "produtos-para-revenda",
     "tags": [
@@ -154,7 +154,7 @@
         "url": "/produtos-para-revenda/011-validar-produto-da-china-antes-de-comprar-estoque.html"
       },
       {
-        "title": "Margem m?nima para produto da China: quando o SKU n?o merece estoque?",
+        "title": "Margem mínima para produto da China: quando o SKU não merece estoque?",
         "url": "/produtos-para-revenda/008-margem-minima-para-produto-da-china-quando-o-sku-nao-merece-estoque.html"
       },
       {
@@ -166,17 +166,17 @@
         "url": "/produtos-da-china/004-como-saber-se-um-produto-da-china-serve-para-revenda.html"
       },
       {
-        "title": "Nicho lucrativo? Margem do SKU antes de apostar no estoque",
+        "title": "Produto viral da China merece estoque ou só teste?",
         "url": "/nichos-lucrativos/003-produto-viral-da-china-vale-estoque-ou-so-pedido-teste.html"
       }
     ],
     "references": [
       {
-        "title": "Receita Federal - Tributa??o de encomendas internacionais",
+        "title": "Receita Federal - Tributação de encomendas internacionais",
         "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/tributacao"
       },
       {
-        "title": "Inmetro - Fiscaliza??o de produtos regulamentados",
+        "title": "Inmetro - Fiscalização de produtos regulamentados",
         "url": "https://www.gov.br/inmetro/pt-br/composicao/surrs/servicos/fiscalizacao-de-produtos-regulamentados"
       },
       {
@@ -498,11 +498,11 @@
         "url": "/produtos-da-china/004-como-saber-se-um-produto-da-china-serve-para-revenda.html"
       },
       {
-        "title": "Custo landed do SKU: preço que decide a revenda final",
+        "title": "Como calcular margem de SKU importado antes de travar caixa?",
         "url": "/produtos-para-revenda/003-como-calcular-margem-de-um-sku-importado-da-china.html"
       },
       {
-        "title": "Nicho lucrativo? Margem do SKU antes de apostar no estoque",
+        "title": "Produto viral da China merece estoque ou só teste?",
         "url": "/nichos-lucrativos/003-produto-viral-da-china-vale-estoque-ou-so-pedido-teste.html"
       }
     ],
@@ -585,11 +585,11 @@
         "url": "/produtos-da-china/004-como-saber-se-um-produto-da-china-serve-para-revenda.html"
       },
       {
-        "title": "Custo landed do SKU: preço que decide a revenda final",
+        "title": "Como calcular margem de SKU importado antes de travar caixa?",
         "url": "/produtos-para-revenda/003-como-calcular-margem-de-um-sku-importado-da-china.html"
       },
       {
-        "title": "Nicho lucrativo? Margem do SKU antes de apostar no estoque",
+        "title": "Produto viral da China merece estoque ou só teste?",
         "url": "/nichos-lucrativos/003-produto-viral-da-china-vale-estoque-ou-so-pedido-teste.html"
       }
     ],
@@ -909,7 +909,7 @@
         "url": "/produtos-da-china/004-como-saber-se-um-produto-da-china-serve-para-revenda.html"
       },
       {
-        "title": "Custo landed do SKU: preço que decide a revenda final",
+        "title": "Como calcular margem de SKU importado antes de travar caixa?",
         "url": "/produtos-para-revenda/003-como-calcular-margem-de-um-sku-importado-da-china.html"
       }
     ],
@@ -977,7 +977,7 @@
     "faq_count": 3,
     "related_links": [
       {
-        "title": "Custo landed do SKU: preço que decide a revenda final",
+        "title": "Como calcular margem de SKU importado antes de travar caixa?",
         "url": "/produtos-para-revenda/003-como-calcular-margem-de-um-sku-importado-da-china.html"
       },
       {
@@ -989,7 +989,7 @@
         "url": "/produtos-da-china/004-como-saber-se-um-produto-da-china-serve-para-revenda.html"
       },
       {
-        "title": "Produto viral merece estoque? O filtro antes do pedido",
+        "title": "Produto viral da China merece estoque ou só teste?",
         "url": "/nichos-lucrativos/003-produto-viral-da-china-vale-estoque-ou-so-pedido-teste.html"
       }
     ],
@@ -1331,7 +1331,7 @@
   },
   {
     "id": "20260505-pillar-como-calcular-margem-de-um-sku-importado-da-china",
-    "title": "Custo landed do SKU: preço que decide a revenda final",
+    "title": "Como calcular margem de SKU importado antes de travar caixa?",
     "description": "Antes de comprar SKU para revenda, compare MOQ, prazo, margem e o ponto em que o lote não vale.",
     "category": "Produtos para Revenda",
     "category_slug": "produtos-para-revenda",
@@ -1546,7 +1546,7 @@
   },
   {
     "id": "20260505-pillar-produto-viral-da-china-vale-estoque-ou-so-pedido-teste",
-    "title": "Nicho lucrativo? Margem do SKU antes de apostar no estoque",
+    "title": "Produto viral da China merece estoque ou só teste?",
     "description": "Preço bonito não basta: veja quando garrafa dobrável perde margem mesmo com fornecedor rápido e MOQ alto.",
     "category": "Nichos Lucrativos",
     "category_slug": "nichos-lucrativos",
@@ -1576,7 +1576,7 @@
         "url": "/nichos-lucrativos/001-nicho-lucrativo-de-produto-importado-existe-mesmo-ou-quase-sempre-parece-melhor-no-papel.html"
       },
       {
-        "title": "Margem real: custo landed antes de apostar no nicho",
+        "title": "Nicho lucrativo de importado existe ou margem vira ilusão?",
         "url": "/nichos-lucrativos/002-nicho-lucrativo-de-importado-existe-ou-voce-so-descobre-tarde-demais-que-a-margem-era-ilusao.html"
       },
       {
@@ -1828,11 +1828,11 @@
         "url": "/produtos-da-china/004-como-saber-se-um-produto-da-china-serve-para-revenda.html"
       },
       {
-        "title": "Margem real: pedido teste antes do pedido teste",
+        "title": "Produto bonito na foto merece pedido teste pequeno?",
         "url": "/produtos-da-china/002-produto-da-china-com-foto-bonita-merece-pedido-teste-pequeno-ou-isso-so-atrasa-sua-revenda.html"
       },
       {
-        "title": "Margem real: custo landed antes de comprar estoque",
+        "title": "Como calcular margem de SKU importado antes de travar caixa?",
         "url": "/produtos-para-revenda/003-como-calcular-margem-de-um-sku-importado-da-china.html"
       }
     ],
@@ -2018,7 +2018,7 @@
         "url": "/produtos-para-revenda/004-garrafa-termica-inox-da-china-margem-ou-estoque-parado.html"
       },
       {
-        "title": "Custo landed do SKU antes de travar caixa",
+        "title": "Como calcular margem de SKU importado antes de travar caixa?",
         "url": "/produtos-para-revenda/003-como-calcular-margem-de-um-sku-importado-da-china.html"
       }
     ],
@@ -2156,11 +2156,11 @@
     "faq_count": 3,
     "related_links": [
       {
-        "title": "Margem real: margem do SKU antes de apostar no nicho",
+        "title": "Produto viral da China merece estoque ou só teste?",
         "url": "/nichos-lucrativos/003-produto-viral-da-china-vale-estoque-ou-so-pedido-teste.html"
       },
       {
-        "title": "Margem real: custo landed antes de apostar no nicho",
+        "title": "Nicho lucrativo de importado existe ou margem vira ilusão?",
         "url": "/nichos-lucrativos/002-nicho-lucrativo-de-importado-existe-ou-voce-so-descobre-tarde-demais-que-a-margem-era-ilusao.html"
       },
       {
@@ -2341,7 +2341,7 @@
     "faq_count": 3,
     "related_links": [
       {
-        "title": "Margem real: custo landed antes de comprar estoque",
+        "title": "Como calcular margem de SKU importado antes de travar caixa?",
         "url": "/produtos-para-revenda/003-como-calcular-margem-de-um-sku-importado-da-china.html"
       },
       {
@@ -2463,7 +2463,7 @@
   },
   {
     "id": "20260505-nichos-lucrativos-002",
-    "title": "Nicho e custo landed: antes de comprar para revender",
+    "title": "Nicho lucrativo de importado existe ou margem vira ilusão?",
     "description": "Antes de seguir, confira nicho lucrativo de produto importado: prova, prazo, custo e ponto de espera precisam estar claros.",
     "category": "Nichos Lucrativos",
     "category_slug": "nichos-lucrativos",
@@ -2489,7 +2489,7 @@
     "faq_count": 3,
     "related_links": [
       {
-        "title": "Margem real: margem do SKU antes de apostar no nicho",
+        "title": "Produto viral da China merece estoque ou só teste?",
         "url": "/nichos-lucrativos/003-produto-viral-da-china-vale-estoque-ou-so-pedido-teste.html"
       },
       {
@@ -2646,7 +2646,7 @@
   },
   {
     "id": "20260505-produtos-da-china-002",
-    "title": "Pedido teste repetido? Quando ele não prova demanda",
+    "title": "Produto bonito na foto merece pedido teste pequeno?",
     "description": "Se produto da China precisa de pedido teste parece barato demais, a conta pode estar incompleta. Use este filtro antes de pagar.",
     "category": "Produtos da China",
     "category_slug": "produtos-da-china",
@@ -2680,7 +2680,7 @@
         "url": "/produtos-da-china/001-como-saber-se-um-produto-da-china-parece-bom-na-foto-mas-vai-decepcionar-no-brasil.html"
       },
       {
-        "title": "Margem real: custo landed antes de comprar estoque",
+        "title": "Como calcular margem de SKU importado antes de travar caixa?",
         "url": "/produtos-para-revenda/003-como-calcular-margem-de-um-sku-importado-da-china.html"
       }
     ],
@@ -2828,7 +2828,7 @@
         "url": "/produtos-da-china/001-como-saber-se-um-produto-da-china-parece-bom-na-foto-mas-vai-decepcionar-no-brasil.html"
       },
       {
-        "title": "Margem real: custo landed antes de comprar estoque",
+        "title": "Como calcular margem de SKU importado antes de travar caixa?",
         "url": "/produtos-para-revenda/003-como-calcular-margem-de-um-sku-importado-da-china.html"
       }
     ],
